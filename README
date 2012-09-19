@@ -1,1 +1,7 @@
-This file was created by IntelliJ IDEA 11.1.3 for binding GitHub repository
+Quick port of Henrik Paul's refresher add-on for Vaadin 7 Beta1.
+
+Compile and install it to your local maven repo by running:
+
+```mvn vaadin:compile install``
+
+Enjoy!
